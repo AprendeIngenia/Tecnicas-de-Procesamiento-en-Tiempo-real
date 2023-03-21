@@ -1,4 +1,4 @@
-# Tecnicas-de-Procesamiento-en-Tiempo-real
+# Tecnicas-de-Procesamiento-en-Tiempo-real-Clase-5
 Hola, chicos en este repositorio encontrarán toda la clase 5 del curso de visión artificial, diapositivas, instaladores, y por supuesto el código programado en Python.
 
 ### Conceptos introductorios:
