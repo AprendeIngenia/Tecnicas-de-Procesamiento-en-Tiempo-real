@@ -6,7 +6,7 @@ Hola, chicos en este repositorio encontrarán toda la clase 5 del curso de visi�
 - Para iniciar recomendamos ver algunos conceptos introductorios sobre los diferentes filtros de procesamiento que puedes utilizar en vision artificial, por eso te dejamos la explicación en este [video.](https://youtu.be/heA2Q5n2xN0)
 
 
-![Miniatura](https://user-images.githubusercontent.com/85022752/225071231-d02abb5d-46e6-49c8-b839-943233325c7b.jpg)
+![Miniatura YouTube curso SEO 3D morado (5)](https://user-images.githubusercontent.com/85022752/235785089-3b279bbd-f5e9-42d3-88b2-781590813191.jpg)
 
 
 ### Instalación del entorno:
